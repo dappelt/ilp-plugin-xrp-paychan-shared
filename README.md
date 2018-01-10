@@ -1,1 +1,1 @@
-Shared code between `ilp-plugin-xrp-paychan`, `ilp-plugin-xrp-asym-server`, and `ilp-plugin-xrp-asym-client`.
+Moved to [interledgerjs/ilp-plugin-xrp-paychan-shared](https://github.com/interledgerjs/ilp-plugin-xrp-paychan-shared).
